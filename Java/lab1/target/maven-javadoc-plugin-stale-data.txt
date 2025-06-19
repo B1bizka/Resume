@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/Users/Ivan/Desktop/Resume/JabaLabs/Lab1/lab1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ivan/Desktop/Resume/JabaLabs/Lab1/lab1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab1 1.0-SNAPSHOT API'
+org.libin.BankAccounts
+org.libin.BankSystems
+org.libin.ClientSystems
+org.libin
+org.libin.Notifications
+org.libin.TimeSystems
+org.libin.Transactions
+org.libin.UserInterfaces
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\src\main\java = 1749578801937
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\allclasses-index.html = 1749585359988
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\allpackages-index.html = 1749585359990
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\element-list = 1749585359805
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\help-doc.html = 1749585360033
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\index-all.html = 1749585360023
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\index.html = 1749585359970
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\member-search-index.js = 1749585359995
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\module-search-index.js = 1749585359991
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\overview-summary.html = 1749585360028
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\overview-tree.html = 1749585359968
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\package-search-index.js = 1749585359992
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\search.html = 1749585360026
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\tag-search-index.js = 1749585359996
+C:\Users\Ivan\Desktop\Resume\JabaLabs\Lab1\lab1\target\reports\apidocs\type-search-index.js = 1749585359993

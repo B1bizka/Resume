@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.libin"},{"l":"org.libin.BankAccounts"},{"l":"org.libin.BankSystems"},{"l":"org.libin.ClientSystems"},{"l":"org.libin.Notifications"},{"l":"org.libin.TimeSystems"},{"l":"org.libin.Transactions"},{"l":"org.libin.UserInterfaces"}];updateSearchResults();
