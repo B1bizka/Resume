@@ -1,6 +1,7 @@
-target
+target/
 *.iml
 /.idea
+.idea/
 .metals/
 .vscode/
 .history/
